@@ -1,0 +1,12 @@
+.section {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* padding: 120px 100px; */
+    color: rgb(255, 0, 0);
+}
+
